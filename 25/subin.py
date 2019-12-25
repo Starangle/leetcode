@@ -39,7 +39,6 @@ class Solution:
             
             tmp=result.next
             while tmp:
-                print(tmp.val)
                 tmp=tmp.next
 
             count=0
